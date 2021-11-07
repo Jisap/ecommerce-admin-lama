@@ -7,12 +7,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMamAfQTcNEOygZI_Of3tD7_5GBZ5PFjE",
-  authDomain: "awesome-destiny-261419.firebaseapp.com",
-  projectId: "awesome-destiny-261419",
-  storageBucket: "awesome-destiny-261419.appspot.com",
-  messagingSenderId: "875294921032",
-  appId: "1:875294921032:web:9813cd090034254724a37d"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
